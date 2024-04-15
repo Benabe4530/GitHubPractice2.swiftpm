@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import SwiftUI
 
 struct AdjectiveView: View {
     var body: some View {

@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import SwiftUI
+
 struct NounView: View {
     var body: some View {
         NavigationLink("Verb view") {
