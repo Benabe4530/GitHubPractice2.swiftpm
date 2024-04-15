@@ -8,7 +8,9 @@
 import Foundation
 import SwiftUI
 struct VerbView: View {
+    @Binding var MadLib: Bool
     var body: some View {
+        Text("ate")
         NavigationLink("AdjectiveView") {
           //  AdjectiveView()
         }
